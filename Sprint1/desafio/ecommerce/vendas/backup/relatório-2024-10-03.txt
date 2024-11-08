@@ -1,0 +1,14 @@
+2024-10-03  3:27
+01/12/2023
+31/02/2024 
+66
+id,produto,quantidade,preço,data
+1,bola de futebol,10,120.00,01/12/2023
+2,tenis de corrida,15,250.00,02/12/2023
+3,luvas de goleiro,5,180.00,03/12/2023
+4,raquete de tenis,8,300.00,04/12/2023
+5,bicicleta mountain bike,7,1200.00,05/12/2023
+6,equipamento de yoga,20,70.00,06/12/2023
+7,squeeze,25,30.00,07/12/2023
+8,camiseta de corrida,30,50.00,08/12/2023
+9,meias esportivas,40,15.00,09/12/2023

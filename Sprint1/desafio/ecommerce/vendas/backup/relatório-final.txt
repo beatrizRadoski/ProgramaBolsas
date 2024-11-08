@@ -1,0 +1,56 @@
+2024-10-01  3:27
+01/01/2023
+31/01/2023
+66
+id,produto,quantidade,preço,data
+1,camiseta,2,29.90,01/01/2023
+2,calça,5,80.00,02/01/2023
+3,sapato,3,100.00,03/01/2023
+4,meia,20,5.00,04/01/2023
+5,cinto,8,15.00,05/01/2023
+6,camisa,7,40.00,06/01/2023
+7,bermuda,6,50.00,07/01/2023
+8,tênis,4,120.00,08/01/2023
+9,bone,12,10.00,09/01/2023
+2024-10-02  3:27
+01/02/2023
+31/01/2023
+66
+id,produto,quantidade,preço,data
+1,caderno 200 folhas,10,15.00,01/02/2023
+2,caneta esferografica,25,2.5,02/02/2023
+3,lapis HB,30,1.00,03/02/2023
+4,borracha,20,1.50,04/02/2023
+5,marcador permanente,15,4.00,05/02/2023
+6,regua 30cm,18,3.00,06/02/2023
+7,tesoura,12,10.00,07/02/2023
+8,papel A4,8,20.00,08/02/2023
+9,pasta catalogo,16,6.00,09/02/2023
+2024-10-03  3:27
+01/12/2023
+31/02/2024 
+66
+id,produto,quantidade,preço,data
+1,bola de futebol,10,120.00,01/12/2023
+2,tenis de corrida,15,250.00,02/12/2023
+3,luvas de goleiro,5,180.00,03/12/2023
+4,raquete de tenis,8,300.00,04/12/2023
+5,bicicleta mountain bike,7,1200.00,05/12/2023
+6,equipamento de yoga,20,70.00,06/12/2023
+7,squeeze,25,30.00,07/12/2023
+8,camiseta de corrida,30,50.00,08/12/2023
+9,meias esportivas,40,15.00,09/12/2023
+2024-10-04  3:27
+01/03/2023
+05/05/2023
+66
+id,produto,quantidade,preço,data
+1,cimento,120,30.00,01/03/2023
+2,areia,150,15.00,02/03/2023
+3,pedra britada,100,25.00,03/03/2023
+4,bloco de concreto,80,2.50,04/03/2023
+5,tijolo,200,0.8,05/03/2023
+6,verga de aço,50,200.00,06/03/2023
+7,arame de construçao,60,30.00,07/03/2023
+8,tinta para parede,40,120.00,08/03/2023
+9,rolos de pintura,25,25.00,09/03/2023

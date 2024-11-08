@@ -1,0 +1,14 @@
+2024-10-04  3:27
+01/03/2023
+05/05/2023
+66
+id,produto,quantidade,preço,data
+1,cimento,120,30.00,01/03/2023
+2,areia,150,15.00,02/03/2023
+3,pedra britada,100,25.00,03/03/2023
+4,bloco de concreto,80,2.50,04/03/2023
+5,tijolo,200,0.8,05/03/2023
+6,verga de aço,50,200.00,06/03/2023
+7,arame de construçao,60,30.00,07/03/2023
+8,tinta para parede,40,120.00,08/03/2023
+9,rolos de pintura,25,25.00,09/03/2023

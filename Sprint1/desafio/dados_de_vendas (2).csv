@@ -1,0 +1,67 @@
+id,produto,quantidade,preço,data
+1,bola de futebol,10,120.00,01/12/2023
+2,tenis de corrida,15,250.00,02/12/2023
+3,luvas de goleiro,5,180.00,03/12/2023
+4,raquete de tenis,8,300.00,04/12/2023
+5,bicicleta mountain bike,7,1200.00,05/12/2023
+6,equipamento de yoga,20,70.00,06/12/2023
+7,squeeze,25,30.00,07/12/2023
+8,camiseta de corrida,30,50.00,08/12/2023
+9,meias esportivas,40,15.00,09/12/2023
+10,caneleira,12,40.00,10/12/2023
+11,mochila de esportes,6,150.00,11/12/2023
+12,apito para arbitro,18,20.00,12/12/2023
+13,capacete de ciclista,9,250.00,13/12/2023
+14,barras de proteina,35,5.00,14/12/2023
+15,conjunto de nataçao,4,200.00,15/12/2023
+16,tenis de basquete,11,300.00,16/12/2023
+17,bola de volei,14,80.00,17/12/2023
+18,bastao de atletismo,5,150.00,11,12.00,18/12/2023
+19,equipamento de boxe,7,400.00,19/12/2023
+20,raquete de badminton,10,120.00,20/12/2023
+21,tenis de futebol,20,200.00,21/12/2023
+22,equipamento de ginastica,15,180.00,22/12/2023
+23,luvas de ciclismo,12,70.00,23/12/2023
+24,corda de pular,22,25.00,24/12/2023
+25,kit de escalada,8,400.00,25/12/2023
+26,sapatilha de ciclismo,10,300.00,26/12/2023
+27,tenis de caminhada,5,250.00,27/12/2023
+28,prancha de surf,4,1500.00,28/12/2023
+29,barras de treino,6,600.00,29/12/2023
+30,bola de basquete,14,100.00,30/12/2023
+31,colete de ciclismo,9,80.00,31/12/2023
+32,kit de nataçao,7,150.00,01/01/2024
+33,tenis de salto,5,300.00,02/01/2024
+34,bonus de fitness,10,200.00,03/01/2024
+35,roupa de surfe,6,350.00,04/01/2024
+36,kitesurf,3,2500.00,05/01/2024
+52,equipamento de skate,8,700.00,20/01/2024
+53,protetor solar esportivo,15,40.00,21/01/2024
+54,roupa de ciclismo,12,150.00,22/01/2024
+55,tenis de treinamento,20,220.00,23/01/2024
+56,capacete de skate,9,120.00,24/01/2024
+57,bastao de esqui,5,500.00,25/01/2024
+58,roupa de corrida,10,130.00,26/01/2024
+59,oculos de nataçao,15,45.00,27/01/2024
+60,camiseta de time,25,60.00,28/01/2024
+61,kit de futebol infantil,10,200.00,01/02/2024
+62,bola de handebol,8,90.00,02/02/2024
+63,paddles para stand up,4,600.00,03/02/2024
+64,rede de volei,9,300.00,04/02/2024
+65,patins de velocidade,5,700.00,05/02/2024
+66,colchonete de exercicio,11,70.00,06/02/2024
+67,acessorios de yoga,12,55.00,07/02/2024
+68,hidrataçao de esportes,20,20.00,08/02/2024
+70,protetor bucal,18,15.00,10/02/2024
+71,escada de agilidade,7,100.00,11/02/2024
+76,tenis de padel,6,220.00,16/02/2024
+77,equipamento de surfe,4,1800.00,17/02/2024
+78,munhequeira,7,25.00,18/02/2024
+79,joelheira,30,55.00,19/02/2024
+80,rede de tenis,12,250.00,20/02/2024
+81,tenis preto,23,300.00,21/02/2024
+82,tenis rosa, 12,400.00,22/02/2024
+83,cabana para acampamento,3,500.00,24/02/2024
+85,acessosrios volei,3,50.00,25/02/2024
+86,tenis de trilha, 5,500.00,27/02/2024
+88,oculos de corrida, 32,55.00,31/02/2024 

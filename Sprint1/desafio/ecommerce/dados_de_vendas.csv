@@ -1,0 +1,67 @@
+id,produto,quantidade,preço,data
+1,cimento,120,30.00,01/03/2023
+2,areia,150,15.00,02/03/2023
+3,pedra britada,100,25.00,03/03/2023
+4,bloco de concreto,80,2.50,04/03/2023
+5,tijolo,200,0.8,05/03/2023
+6,verga de aço,50,200.00,06/03/2023
+7,arame de construçao,60,30.00,07/03/2023
+8,tinta para parede,40,120.00,08/03/2023
+9,rolos de pintura,25,25.00,09/03/2023
+10,pinceis,30,10.00,10/03/2023
+11,verniz,20,90.00,11/03/2023
+12,madeira,70,50.00,12/03/2023
+13,parafuso,200,0.1,13/03/2023
+14,porca e parafuso,150,0.2,14/03/2023
+15,lixa para madeira,100,5.00,15/03/2023
+16,colher de pedreiro,0,20.00,16/03/2023
+17,cinta de isolamento,40,15.00,17/03/2023
+18,barrica de tinta,30,250.00,18/03/2023
+19,assento sanitario,25,80.00,19/03/2023
+20,chuveiro,15,150.00,20/03/2023
+21,registro de pressao,20,50.00,21/03/2023
+22,cano pvc,100,10.00,22/03/2023
+23,conexoes pvc,80,5.00,23/03/2023
+24,cimento queimado,60,35.00,24/03/2023
+25,dobradiça,50,15.00,25/03/2023
+26,luminaria led,45,60.00,26/03/2023
+27,fita adesiva,100,8.00,27/03/2023
+28,papel de parede,20,70.00,28/03/2023
+29,placa de gesso,50,25.00,29/03/2023
+30,estrutura metalica,30,200.00,30/03/2023
+31,escada de aluminio,10,300.00,31/03/2023
+32,martelo,60,30.00,01/04/2023
+33,serra de mao,45,40.00,02/04/2023
+34,chave de fenda,80,20.00,03/04/2023
+35,broca para furadeira,40,15.00,04/04/2023
+36,compressor de ar,5,1500.00,05/04/2023
+52,furadeira eletrica,15,400.00,06/04/2023
+53,nivel,25,70.00,07/04/2023
+54,talhadeira,20,50.00,08/04/2023
+55,pe de cabra,15,60.00,09/04/2023
+56,caixa de ferramentas,30,150.00,10/04/2023
+57,carrinho de mao,20,120.00,11/04/2023
+58,balde,100,12.00,12/04/2023
+59,escova de aço,50,10.00,13/04/2023
+60,mascara de proteçao,70,5.00,14/04/2023
+61,luvas de segurança,80,12.00,15/04/2023
+62,protetor auricular,40,20.00,16/04/2023
+63,botina de segurança,30,100.00,17/04/2023
+64,EPI,25,150.00,18/04/2023
+65,telha ceramica,40,2.00,19/04/2023
+66,ladrilho,60,3.00,20/04/2023
+67,argamassa,100,25.00,21/04/2023
+68,revestimento de parede,30,60.00,22/04/2023
+70,manta termica,25,100.00,23/04/2023
+71,insulfim,15,50.00,24/04/2023
+76,furo em PVC,80,4.00,25/04/2023
+77,isolante acustico,30,90.00,26/04/2023
+78,tinta impermeabilizante,15,200.00,27/04/2023
+79,concreto pre moldado,10,1200.00,28/04/2023
+80,adesivo para ceramica,40,50.00,29/04/2023
+81,mangueira para jardim,20,30.00,30/04/2023
+82,cortador de grama,10,250.00,01/05/2023
+83,arame,20,5.00,02/05/2023
+85,paineis de madeira,20,150.00,03/05/2023
+86,parafuso para madeira,200,0.15,04/05/2023
+88,ferramentas,68,50.00,05/05/2023

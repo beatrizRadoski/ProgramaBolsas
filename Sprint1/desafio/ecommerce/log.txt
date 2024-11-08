@@ -1,0 +1,10 @@
+  adding: backup-dados-2024-10-01.csv (deflated 55%)
+mkdir: não foi possível criar o diretório “vendas”: Arquivo existe
+mkdir: não foi possível criar o diretório “backup”: Arquivo existe
+  adding: backup-dados-2024-10-02.csv (deflated 57%)
+mkdir: não foi possível criar o diretório “vendas”: Arquivo existe
+mkdir: não foi possível criar o diretório “backup”: Arquivo existe
+  adding: backup-dados-2024-10-03.csv (deflated 61%)
+mkdir: não foi possível criar o diretório “vendas”: Arquivo existe
+mkdir: não foi possível criar o diretório “backup”: Arquivo existe
+  adding: backup-dados-2024-10-04.csv (deflated 58%)
