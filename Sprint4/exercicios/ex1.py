@@ -15,7 +15,6 @@ def filtro(arquivo):
 def soma_5(arquivo, funcao):
     lista = funcao(arquivo)
     
-    
     lista_com5 = lista[:5]
     
     soma = sum(lista_com5)
