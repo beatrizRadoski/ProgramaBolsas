@@ -1,6 +1,7 @@
 import hashlib
 
-while True:
+sair = ''
+while(sair != 'S'):
 
     string = input('Olá, Escreva algo que eu irei gerar sua hash.')
 
@@ -9,7 +10,3 @@ while True:
     print(f'Hash gerada: {hash.hexdigest()}')
 
     sair = input('Deseja sair [S]im ou [N]ão: ').upper()
-    if sair == 'S':
-        break
-    else:
-        continue
