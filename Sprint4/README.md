@@ -28,38 +28,38 @@ Após estruturar tudo isso, era só utilizá-los com *soma = soma_5(conteudo,fil
 
 ## Evidências
 
-Criação do Dockerfile para poder criar a imagem do carguru.
+#### Criação do Dockerfile para poder criar a imagem do carguru.
 ![](./evidencias/docker_carguru.png)
 
-Criação da imagem do carguru com o build.
+#### Criação da imagem do carguru com o build.
 ![](./evidencias/criando_imagem.png)
 
-Mostrando as imagens criadas no meu Docker, principalmente imagem carguru.
+#### Mostrando as imagens criadas no meu Docker, principalmente imagem carguru.
 ![](./evidencias/imagem_carguru_criada.png)
 
-Rodando a imagem carguru no container com run.
+#### Rodando a imagem carguru no container com run.
 ![](./evidencias/rodando_nocontainer.png)
 
-Demonstrando que é possível reiniciar containers com o start.
+#### Demonstrando que é possível reiniciar containers com o start.
 ![](./evidencias/reiniciando_cont.png)
 
-Criação do Dockerfile para o script hash.
+#### Criação do Dockerfile para o script hash.
 ![](./evidencias/dockerHash.png)
 
-Criação do script hash com a biblioteca hashlib para encriptar strings com sha-1.
+#### Criação do script hash com a biblioteca hashlib para encriptar strings com sha-1.
 ![](./evidencias/script_hash.png)
 
-Criação da imagem mascarar-dados com o build.
+#### Criação da imagem mascarar-dados com o build.
 ![](./evidencias/mascarar-dados_image.png)
 
-Rodando imagem mascarar-dados no container com o run.
+#### Rodando imagem mascarar-dados no container com o run.
 ![](./evidencias/rodando_imagemhash.png)
 
-Exercício nº 1 proposto nessa sprint para praticar programação funcional, utilizando lambdas, high order function e funções como map, sorted, sum e muito mais. 
+#### Exercício nº 1 proposto nessa sprint para praticar programação funcional, utilizando lambdas, high order function e funções como map, sorted, sum e muito mais. 
 ![](./evidencias/ex1.png)
 
 ## Certificados
 
 Pude participar do curso da AWS  e aprender mais sobre seus príncipios,como trabalham e suas ideias de negócios. Uma base para poder um dia trabalhar com eles.
 
-![](/Sprint3/certificados/certificadoAWS.png)
+![]()
