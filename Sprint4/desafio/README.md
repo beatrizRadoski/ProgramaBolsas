@@ -41,7 +41,7 @@ Aqui você encontrará o passo a passo de como solucionei o desafio do Sprint 4.
 
 ![](/Sprint4/evidencias/script_hash.png)
 
-#### Para criar uma hash a partir de uma string recebida por um input, precisei primeiro importar a biblioteca *hashlib*. Após isso, coloquei a variável *string* para guardar o que recebesse do input. Para gerar o hash, eu utilizei o algoritmo *sha1*, para encriptar utilizei o *encode()* na variável string. Para finalizar, eu utilizei o *hexdigest* para imprimir o resultado. 
+#### Para criar uma hash a partir de uma string recebida por um input, precisei primeiro importar a biblioteca *hashlib*. Após isso, coloquei a variável *string* para guardar o que recebesse do input. Para gerar o hash, eu utilizei o algoritmo *sha1*, para encriptar utilizei o *encode()* na variável string. Para finalizar, eu utilizei o *hexdigest* para imprimir o resultado. Como o desafio pedia que retornasse ao passo 1 - começo do código - utilizei a estrutura While para sair somente quando o usuário quisesse. Para saber do desejo do usuário criei outro input onde pergunto se ele deseja sair ou continuar. Com a estrutura if e else eu controlo a saída ou não utilizando *break* caso ele indique que queira sair e *continue* caso ele queira continuar.
 
 #### Após criar o script, era preciso criar o arquivo *Dockerfile*, igual fiz na etapa 1.
 
