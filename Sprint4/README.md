@@ -62,5 +62,5 @@ Após estruturar tudo isso, era só utilizá-los com *soma = soma_5(conteudo,fil
 
 Pude participar do curso da AWS  e aprender mais sobre seus príncipios,como trabalham e suas ideias de negócios. Uma base para poder um dia trabalhar com eles.
 
-![](/Sprint4/certificados/certificadoAWS-sprint4.png)
-![](/Sprint4/certificados/certificadoAWS2-sprint4.png)
+![](./certificados/certificadoAWS-sprint4.png)
+![](./certificados/certificadoAWS2-sprint4.png)
