@@ -43,9 +43,14 @@ Comecei fazendo a leitura do arquivo com *pd.read_csv()* e criando uma função 
 ![](../evidencias/tratamento.png)
 
 Criei algumas novas colunas, como *CATEGORIA* separando filmes por nacionais e internacionais, utilizando a função lambda, para uma possível análise futura. 
+
 Outro critério era a utilização de duas funções agregadas, utilizei o *groupby* e o *sum* criando uma nova coluna *PUBLICO_TOTAL_FILME_CIDADE* onde eu agrupei pelas colunas *TITULO_ORIGINAL* e *MUNICIPIO_SALA_COMPLEXO* somando os valores da coluna *PUBLICO* para poder analisar qual o filme mais assistido de determinada cidade por exemplo. 
+
 Quis criar uma coluna *ANO_MES*, onde utilizei o critério de função de data, onde pego apenas o mês e o ano com a função *dt.to_period*. 
-Outro critério é o uso de dois operadores lógicos em uma cláusula. Assim, eu fiz um seleção onde pego *'PUBLICO_TOTAL_FILME_CIDADE' >= 500* e *'UF_SALA_COMPLEXO' == 'PR'* juntando com o & (and de bit em bit). Para finalizar, quis fazer mais um análise, que era agrupar a coluna *ANO_MES* e somar por *PUBLICO* obtendo qual ano e mês as pessoas foram mais ao cinema. Por fim, salvei o novo dataframe com *df.to_csv()*.
+
+Outro critério é o uso de dois operadores lógicos em uma cláusula. Assim, eu fiz um seleção onde pego *'PUBLICO_TOTAL_FILME_CIDADE' >= 500* e *'UF_SALA_COMPLEXO' == 'PR'* juntando com o & (and de bit em bit). 
+
+Para finalizar, quis fazer mais um análise, que era agrupar a coluna *ANO_MES* e somar por *PUBLICO* obtendo qual ano e mês as pessoas foram mais ao cinema. Por fim, salvei o novo dataframe com *df.to_csv()*.
 
 ![](../evidencias/novas_colunas.png)
 
