@@ -38,15 +38,18 @@ Na etapa 3, preciso criar um script python que irá manusear esse arquivo csv qu
 
 Nesse script há algumas exigências do que deve conter, irei mostrando conforme irão aparecendo.
 
-Comecei fazendo a leitura do arquivo com *pd.read_csv()* e criando uma função de conversão para algumas tabelas que estavam no tipo float e int e precisavam estar no tipo str. Nessa função, primeiro eu verifico se é uma instância do tipo float ou int, caso seja, faço a conversão e, além disso, elimino espaços nas extremidades das colunas. Nessa parte cumpri os critério de função de conversão, utilização do *if* e utilização de uma função string.
+Comecei fazendo a leitura do arquivo com *pd.read_csv()* e criando uma função de conversão para algumas tabelas que estavam no tipo float e int e precisavam estar no tipo str. Nessa função, primeiro eu verifico se é uma instância do tipo float ou int, caso seja, faço a conversão e, além disso, elimino espaços nas extremidades das colunas. Nessa parte cumpri os critério de função de conversão, função condicional e utilização de uma função string.
 
 ![](../evidencias/tratamento.png)
 
-Como ainda tinha alguns critérios a serem utiizados, continuei com o script. Criei algumas novas colunas, como *CATEGORIA* separando filmes por nacionais e internacionais, utilizando a função lambda. Outro critério era a utilização de duas funções agregadas, utilizei o *groupby* e o *sum* criando uma nova coluna *PUBLICO_TOTAL_FILME_CIDADE* onde eu agrupei pelas colunas *TITULO_ORIGINAL* e *MUNICIPIO_SALA_COMPLEXO* somando os valores da coluna *PUBLICO*. Quis criar uma coluna *ANO_MES*, onde utilizei o critério de função de data, onde pego apenas o mês e o ano com a função *dt.to_period*. Outro critério é o uso de dois operadores lógicos em uma cláusula. Assim, eu fiz um seleção onde pego *'PUBLICO_TOTAL_FILME_CIDADE' >= 500* e *'UF_SALA_COMPLEXO' == 'PR'* juntando com o |(or de bit em bit). Para finalizar, quis fazer mais um análise, que era agrupar a coluna *ANO_MES* e somar por *PUBLICO* obtendo qual ano e mês as pessoas foram mais ao cinema. Por fim, salvei o novo dataframe com *df.to_csv()*.
+Criei algumas novas colunas, como *CATEGORIA* separando filmes por nacionais e internacionais, utilizando a função lambda, para uma possível análise futura. 
+Outro critério era a utilização de duas funções agregadas, utilizei o *groupby* e o *sum* criando uma nova coluna *PUBLICO_TOTAL_FILME_CIDADE* onde eu agrupei pelas colunas *TITULO_ORIGINAL* e *MUNICIPIO_SALA_COMPLEXO* somando os valores da coluna *PUBLICO* para poder analisar qual o filme mais assistido de determinada cidade por exemplo. 
+Quis criar uma coluna *ANO_MES*, onde utilizei o critério de função de data, onde pego apenas o mês e o ano com a função *dt.to_period*. 
+Outro critério é o uso de dois operadores lógicos em uma cláusula. Assim, eu fiz um seleção onde pego *'PUBLICO_TOTAL_FILME_CIDADE' >= 500* e *'UF_SALA_COMPLEXO' == 'PR'* juntando com o & (and de bit em bit). Para finalizar, quis fazer mais um análise, que era agrupar a coluna *ANO_MES* e somar por *PUBLICO* obtendo qual ano e mês as pessoas foram mais ao cinema. Por fim, salvei o novo dataframe com *df.to_csv()*.
 
 ![](../evidencias/novas_colunas.png)
 
-Após fazer todo o trabalho em cima do arquivo, precisamos enviá-lo também para o bucket. Assim, fiz a mesma coisa na etapa 2, mudando apenas o arquivo que seria enviado e o nome dele no bucket ao ser enviado.
+Após fazer todo o trabalho em cima do arquivo, precisamos enviá-lo também para o bucket. Assim, fiz a mesma coisa na etapa 2, mudando apenas o arquivo que seria enviado e o nome dele no bucket.
 
 ![](../evidencias/envio_bucket.png)
 
