@@ -8,7 +8,7 @@ O desafio da Sprint 5 tem como objetivo a prática dos conhecimentos apreendidos
 
 ### 1 ETAPA
 
-Antes de começar o desafio, foi preciso escolher os dados que iríamos trabalhar no desafio. O meu conjunto de dados foi um relatório de bilheteria diária de obras informadas pelas exibidoras. Nesse relatório havia muitos arquivos csv's, então eu decidi juntar apenas dos anos de 2022 a 2024. Para isso eu precisei criar um script que juntasse todos esses arquivos.
+Antes de começar o desafio, foi preciso escolher os dados que iríamos trabalhar no desafio. O meu conjunto de dados foi um relatório de bilheteria diária de obras informadas pelas exibidoras. Nesse relatório havia muitos arquivos csv's, então eu decidi juntar apenas dos anos de 2023 a 2024. Para isso eu precisei criar um script que juntasse todos esses arquivos.
 
 Eu utilizei a biblioteca *pandas* e *os*. O *os.listdir* lista todos os arquivos que contém no diretório que especifiquei na variável *diretorio*. O *f.endswith('.csv')* verifica se todos os arquivos dentro do diretório são csv. O *os.path.join* gera um caminho completo para cada arquivo desse diretorio. Por fim, a variável *arquivos_csv* irá conter uma lista de caminhos.
 
