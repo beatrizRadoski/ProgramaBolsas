@@ -3,7 +3,7 @@
 Aqui é o meu espaço pessoal onde armazenarei meus estudos e códigos no decorrer do programa.
 
 ## Quem é Beatriz?
-![](../../Imagens/fotoPerfil.jpeg)
+![](https://avatars.githubusercontent.com/u/114525386?v=4)
  Olá, bem vindo ao meu cantinho de estudos. Escrevo da minha cidade natal, Santana do Itararé, interior do Estado do Paraná. Eu curso Ciência de Dados pela Univesp, estou no 3º semestre. Eu sou uma pessoa bem ativa, gosto de treinar musculação, amo correr, sempre estou participando de provas quando posso. Além disso, gosto de me aventurar na confeitaria e na cozinha, tenho uma afetividade por bolos. Em todos os aniversários das pessoas que amo, sou eu quem o faço.
   
 ## Como conheci a área de dados.
