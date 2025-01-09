@@ -120,15 +120,11 @@ Na etapa 7 pedia para repetir o processo da etapa  só que utilizando o SparkSQL
 
 Nessa etapa foi pedido para usar o método filter para filtrar apenas pessoas que são da geração Millennials e fazer a contagem. Para isso apliquei o filter na coluna AnoNascimento e usei o isin para pegar os anos da lista fornecida e no final, coloquei o count() para obter a quantidade de pessoas.
 
-![](./exercicios/exer_PySpark/etapa8_cod.png)
-
 ![](./exercicios/exer_PySpark/etapa8.png)
 
 #### ETAPA 9
 
 Nessa etapa foi pedido a mesma coisa que na etapa 7, para utilizar o SparkSQL.
-
-![](./exercicios/exer_PySpark/parte9_cod.png)
 
 ![](./exercicios/exer_PySpark/etapa9.png)
 
