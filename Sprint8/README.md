@@ -169,6 +169,10 @@ Tabela criada.
 Visualização dos dados por meio do Athena
 ![](./evidencias/JOB1/athena.png)
 
+Arquivo no bucket
+
+![](./evidencias/JOB1/arquivo_no_bucket.png)
+
 ### JOB2
 
 
@@ -198,6 +202,10 @@ Tabela criada.
 
 Visualização dos dados por meio do Athena
 ![](./evidencias/JOB2/athena.png)
+
+Arquivo no bucket
+
+![](./evidencias/JOB2/arquivo_no_bucket.png)
 
 ## Certificados
 
