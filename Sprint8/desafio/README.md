@@ -50,6 +50,9 @@ Depois que criamos o job e rodamos ele, precisamos criar um banco de dados, onde
 
 ![](../evidencias/JOB1/athena.png)
 
+Arquivo no bucket:
+
+![](../evidencias/JOB1/arquivo_no_bucket.png)
 
 ### JOB 2
 
@@ -98,6 +101,10 @@ Verifica se a tabela foi criada.
 Após a tabela ser criada, é só visulizar os dados no Athena.
 
 ![](../evidencias/JOB2/athena.png)
+
+Arquino no bucket: 
+
+![](../evidencias/JOB2/arquivo_no_bucket.png)
 
 
 
