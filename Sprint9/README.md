@@ -1,5 +1,5 @@
 ####
-**Localização**: C:\Users\beatr\OneDrive\Área de Trabalho\ProgramaBolsas\Sprint7\README.md
+**Localização**: C:\Users\beatr\OneDrive\Área de Trabalho\ProgramaBolsas\Sprint9\README.md
 
 ## Informações
 * Na parte **exercícios** encontrará minhas resoluções dos exercícios.
@@ -8,7 +8,7 @@
 
 ## Anotações
 
-Nessa sprint, pude colocar mais em prática meus aprendizados sobre o Apache Spark e os serviços da AWS, focando no processamento de dados com o Glue.
+Nessa sprint, fizemos a penúltima entrega do desafio final, onde pegamos os dados da camad Trusted e passamos para a camada Refined, refinando os dados através dos jobs no Glue.
 
 ## Exercícios
 
