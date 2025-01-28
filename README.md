@@ -19,4 +19,6 @@ Mesmo ingressando num curso que é da área de dados, eu não conhecia essa áre
 * [Sprint 6](/Sprint6)
 * [Sprint 7](/Sprint7)
 * [Sprint 8](/Sprint8)
+* [Sprint 9](/Sprint9)
+* [Sprint 10](/Sprint10)
 
